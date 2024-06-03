@@ -6,7 +6,7 @@ info:
   version: v1
 
 servers:
-- url: https://{stage-url}.amazonaws.com/v1
+- url: https://uuzpdc6ax8.execute-api.ap-southeast-1.amazonaws.com/v1
   description: Server URL must be replaced with real URL after deploy the API Gateway in the AWS
   
 tags:
